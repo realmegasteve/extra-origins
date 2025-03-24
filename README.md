@@ -38,10 +38,10 @@ Adds more origins to the [Origins](https://modrinth.com/mod/origins) mod, requir
 ```
 
 ## External Links
-Support me on Ko-fi! I release new versions of my mods early here <3
+support moriya
 
 [![Ko-fi](https://i.imgur.com/6pkJV6h.png)](https://ko-fi.com/moriyashiine)
 
-Join my Discord!
+join moriya's discord
 
 [![Discord](https://i.imgur.com/72QzxP1.png)](https://discord.gg/Am6M8VQ)
